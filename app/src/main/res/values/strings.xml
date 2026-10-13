@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QuizLock</string>
+    <string name="channel_monitor">Locking status</string>
+    <string name="notification_title">QuizLock is on</string>
+    <string name="notification_text">Asking a question before %1$d locked apps</string>
+</resources>
